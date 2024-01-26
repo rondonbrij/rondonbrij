@@ -3,8 +3,8 @@ name: Stats Update
 on:
   schedule:
     # Runs at 12 am  '0 0 * * *'  UTC
-    - cron: "0 1 * * *"
-
+    - cron: "30 1 * * *"
+  workflow_dispatch:
 jobs:
   update-readme:
     name: Update the WakaTime Stat
