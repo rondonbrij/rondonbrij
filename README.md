@@ -1,12 +1,6 @@
-<img
-  src="https://github.com/rondonbrij/rondonbrij/blob/main/images/stat.svg"
-  alt="Rondonbrij's Activity"
-/>
-
-<!--
 ### Hi there 👋
-
-**rondonbrij/rondonbrij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<--
+**rondonbrij/rondonbrij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
@@ -19,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...x`
 -->
+
+<img
+  src="https://github.com/rondonbrij/rondonbrij/blob/main/images/stat.svg"
+  alt="Rondonbrij's Activity"
+/>
