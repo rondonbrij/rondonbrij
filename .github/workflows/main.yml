@@ -1,4 +1,4 @@
-name: WakaTime status update
+name: Stats Update
 
 on:
   schedule:

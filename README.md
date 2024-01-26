@@ -1,12 +1,9 @@
 <img
   src="https://github.com/rondonbrij/rondonbrij/blob/main/images/stat.svg"
-  alt="Rondonbrij WakaTime Activity"
+  alt="Rondonbrij's Activity"
 />
 
-
-
-
-<!-- 
+<!--
 ### Hi there 👋
 
 **rondonbrij/rondonbrij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
