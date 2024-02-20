@@ -1,4 +1,4 @@
-<h1> Hellow World </h1>
+<h1> magic </h1>
 
 ### 🐱‍💻 Know Me
 
