@@ -17,10 +17,12 @@
 <h1 align="center"></h1>
 
 ### 📊 Stats
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rondonbrij&count_private=true&show_icons=true" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rondonbrij&layout=compact&langs_count=10" />
-<img height="150" />
+<a href="https://github.com/rondonbrij/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rondonbrij" />
+</a>
+<a href="https://github.com/rondonbrij/rondonbrij">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rondonbrij&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <br> <br>
 <h1 align="center"></h1>
