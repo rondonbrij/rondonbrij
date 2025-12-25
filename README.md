@@ -12,7 +12,7 @@
 
 ### 📫 Contacts
   
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rondonbrij@gmail.com)](rjcagum@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rjcagum@gmail.com)](rjcagum@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/rondonbrij/)](https://www.facebook.com/rondonbrij/)
 <h1 align="center"></h1>
 
