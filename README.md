@@ -20,15 +20,9 @@
 
 ### 📊 Stats
 
-<a href="https://github.com/rondonbrij/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-rondonbrijs-projects.vercel.app/api?username=rondonbrij&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/rondonbrij/rondonbrij">
-  <img height=200 align="center" src="https://github-readme-stats-rondonbrijs-projects.vercel.app/api/top-langs? username=rondonbrij&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=true" />
-</a>
+![GitHub Stats](https://github-readme-stats-rondonbrijs-projects.vercel.app/api?username=rondonbrij&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
-<br> <br>
-<h1 align="center"></h1>
+![Top Languages](https://github-readme-stats-rondonbrijs-projects.vercel.app/api/top-langs?username=rondonbrij&layout=compact&langs_count=8&theme=radical&hide_border=true)
 
 ### 🏆 Trophies
 
