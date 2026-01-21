@@ -1,5 +1,6 @@
-<h1>✨ Magic ✨</h1>
+<h1>Hi!</h1>
 
+<!--
 ### 🐱‍💻 Know Me
 
 - 🎓 I am a **student**.
@@ -7,7 +8,7 @@
 - 🌱 I'm currently learning **Web Development and Web Design**.
 - 🤔 My hobbies are **reading books 📚, listening to music 🎵, play games 🎮, and people-watching 👀**.
 - 💬 If you have any questions, **just ask me out**.
-- 🔍 I'm interested in **women.**
+- 🔍 I'm interested in **women.** 
 
 <h1 align="center"></h1>
 
@@ -26,7 +27,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rondonbrij&row=2&column=10&margin-w=15&margin-h=15&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h1 align="center"></h1>
+<h1 align="center"></h1>  -->
 
 ### ⏲️ Time Spent
 
